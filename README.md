@@ -4,8 +4,7 @@
 ---
 
 ## Contato
-- **Telefone:** (XX) XXXXX-XXXX
-- **Email:** guilherme.camarotto@email.com
+- **Email:** guicamarotto@gmail.com
 - **LinkedIn:** [linkedin.com/in/guilhermecamarotto](https://linkedin.com/in/guilhermecamarotto)
 - **GitHub:** [github.com/guicamarotto](https://github.com/guicamarotto)
 - **Localização:** Santana de Parnaíba, São Paulo, Brasil
