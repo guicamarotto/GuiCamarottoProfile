@@ -5,7 +5,7 @@
 
 ## Contato
 - **Email:** guicamarotto@gmail.com
-- **LinkedIn:** [linkedin.com/in/guilhermecamarotto](https://linkedin.com/in/guilhermecamarotto)
+- **LinkedIn:** [linkedin.com/in/guicamarotto](https://linkedin.com/in/guicamarotto)
 - **GitHub:** [github.com/guicamarotto](https://github.com/guicamarotto)
 - **Localização:** Santana de Parnaíba, São Paulo, Brasil
 
